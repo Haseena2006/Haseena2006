@@ -1,4 +1,3 @@
-Recommended Structure
 • Intro Section (Hi, I'm Haseena Fathim)
 • Typing Animation Banner
 • About Me Section
