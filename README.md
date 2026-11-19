@@ -56,7 +56,6 @@ Technologies: HTML • CSS • JavaScript
 
 Interactive E-Commerce Data Analysis and Business Intelligence Dashboard featuring data exploration, sales analytics, reporting, and data visualization.
 
-Topics: ibm-cognos, business-intelligence, data-analytics, data-visualization, ecommerce-analytics, dashboard, javascript, chartjs, data-exploration, analytical-reporting.
 ---
 
 🔐 CodeAlpha Cyber Security Tasks
