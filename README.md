@@ -54,10 +54,9 @@ Technologies: HTML • CSS • JavaScript
 
 🛒 Quickcart Analysis
 
-A project focused on analysing shopping/cart-related data and presenting useful insights.
+Interactive E-Commerce Data Analysis and Business Intelligence Dashboard featuring data exploration, sales analytics, reporting, and data visualization.
 
-Technologies: JavaScript • Web Technologies
-
+Topics: ibm-cognos, business-intelligence, data-analytics, data-visualization, ecommerce-analytics, dashboard, javascript, chartjs, data-exploration, analytical-reporting.
 ---
 
 🔐 CodeAlpha Cyber Security Tasks
